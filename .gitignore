@@ -1,0 +1,25 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlitedb
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore compiled files
+*.compiled
+*.dll
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+
+.idea
